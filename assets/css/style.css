@@ -1,0 +1,17 @@
+* {
+	margin: 0;
+	padding: 0;
+    box-sizing: border-box;
+}
+body {
+    width: 100%;
+    height: 100vh;
+	background-image: linear-gradient(150deg, #201536 10%, #483648 45%, #18143c 80%);
+}
+marquee {
+    height: 100vh;
+}
+.bolha {
+    width: 180px;
+    height: auto;
+}
